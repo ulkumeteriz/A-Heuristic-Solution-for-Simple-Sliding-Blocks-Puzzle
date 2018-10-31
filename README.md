@@ -1,1 +1,1 @@
-A Heuristic Solution for Simple Sliding Blocks Puzzle
+## A Heuristic Solution for Simple Sliding Blocks Puzzle
